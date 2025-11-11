@@ -9,6 +9,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
+        "custom.ts",
         "mission1.md",
         "mission2.md",
         "mission3.md",
